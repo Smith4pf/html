@@ -1,0 +1,26 @@
+.btn{
+    background-color: yellow;
+    border-radius: 15px;
+    height: 28px;
+    border-style: solid;
+    width: 10%;
+    font-weight: bold;
+    cursor: pointer;
+    margin-right: 15px;
+}
+.btn-2{
+    background-color: rgb(207, 55, 55);
+    border-radius: 15px;
+    height: 28px;
+    border-style: solid;
+    width: 10%;
+    font-weight: bold;
+    cursor: pointer;
+}
+.p1{
+    color: darkgreen;
+    font-size: large;
+}
+.p2{
+    font-weight: bold;
+}
