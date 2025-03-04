@@ -26,6 +26,10 @@ a{
     margin: 40px auto;
 }
 
+*i{
+    size: 40px;
+}
+
 .wrapper .logo img{
     display: block;
     width: 48px;

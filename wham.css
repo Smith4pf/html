@@ -1,0 +1,39 @@
+.h1{
+    font-size: 50px;
+}
+.static{
+   background-color: rgb(92, 92, 228);
+   padding: 10px;
+   border-radius: 10px;
+   left: 100px;
+   top: 0;
+
+}
+.relative{
+    background-color: rgb(92, 92, 228);
+    padding: 10px;
+    border-radius: 10px;
+    left: 100px;
+    top: 0;
+}
+.absolute{
+    background-color: rgb(92, 92, 228);
+    padding: 10px;
+    border-radius: 10px;
+    left: 100px;
+    top: 0;
+}
+.static-2{
+    background-color: rgb(92, 92, 228);
+    padding: 10px;
+    border-radius: 10px;
+    left: 100px;
+    top: 0;
+}
+.absolute-2{
+    background-color: rgb(92, 92, 228);
+    padding: 10px;
+    border-radius: 10px;
+    left: 100px;
+    top: 0;
+}
